@@ -67,11 +67,6 @@ public class Hanoi {
 
         @Override
         public String toString() {
-
-
-
-
-
             return "HanoiBoard{" +
                     "column1=" + column1 + "\t" +
                     ", column2=" + column2 + "\t" +
