@@ -61,7 +61,7 @@ public class TwoDimensionalArr {
         Random rd = new Random();
         for(int i=0; i<n; i++){
             for(int j=0; j<n; j++){
-                arr[i][j] = rd.nextInt(1);
+                arr[i][j] = rd.nextInt(2);
             }
         }
         return arr;
